@@ -1,0 +1,9 @@
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+C:\Users\Riady\Documents\Git\Senin_141110388_RiadyKusumo\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
