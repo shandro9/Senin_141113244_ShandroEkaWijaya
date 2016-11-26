@@ -35,3 +35,6 @@ D:\Users\john\Desktop\Senin_141112320_SutrisWijayaHasim-20161027T154553Z\Senin_1
 C:\Users\ZENNY\Downloads\senin_141112320_sutriswijayahasim-master\New Folder\senin_141112320_sutriswijayahasim-master\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
 C:\Users\ZENNY\Downloads\senin_141112320_sutriswijayahasim-master\New Folder\senin_141112320_sutriswijayahasim-master\Latihan_4_1\obj\Debug\Latihan_4_1.exe
 C:\Users\ZENNY\Downloads\senin_141112320_sutriswijayahasim-master\New Folder\senin_141112320_sutriswijayahasim-master\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
+F:\senin_141112320_sutriswijayahasim-master\New Folder\senin_141113244_ShandroEkaWijaya-master\Latihan_4_1\bin\Debug\Latihan_4_1.exe.config
+F:\senin_141112320_sutriswijayahasim-master\New Folder\senin_141113244_ShandroEkaWijaya-master\Latihan_4_1\obj\Debug\Latihan_4_1.exe
+F:\senin_141112320_sutriswijayahasim-master\New Folder\senin_141113244_ShandroEkaWijaya-master\Latihan_4_1\obj\Debug\Latihan_4_1.pdb
